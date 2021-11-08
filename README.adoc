@@ -1,0 +1,11 @@
+# wacky
+
+MonoRepo for weird ideas that might not make it to fully functioning, or even well thought-out projects.
+
+image::orly.png[Image of Fake O'Reilly Book with the Title 'Comprehensive Collection of Crazy Concoctions']
+
+# Why?
+
+I need a place to dump my stupid ideas and to vent the built-up frustration and madness working with software.
+
+image::Kei_Shirogane_crying_CPP.png[Kei Shirogane crying holding Bjarne Stroustrups 'The C++ Programming Language (C++11)']
