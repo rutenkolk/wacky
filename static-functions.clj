@@ -110,5 +110,5 @@
   [sfn-call-expr alt-expr]
   (let [[sfn & args] sfn-call-expr]
     (if (get-static-fn sfn (get-typehints args))
-       SFN-CALL-EXPR
-       ALT-EXPR)))
+       sfn-call-expr
+       alt-expr)))
